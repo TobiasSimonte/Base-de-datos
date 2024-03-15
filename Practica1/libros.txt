@@ -1,0 +1,3 @@
+123456789 Titulo del libro
+2000 editorial
+genero
