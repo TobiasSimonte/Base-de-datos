@@ -1,0 +1,80 @@
+45569739 06240/8
+3 Juan
+19980521 Martínez
+Calle 12 #3456, La Plata
+45569739 51369/1
+4 María
+19870415 Pérez
+Avenida 7 #987, La Plata
+45569739 20382/3
+2 Carlos
+19921030 González
+Calle 54 #123, La Plata
+45569739 14385/5
+5 Ana
+19811203 Rodríguez
+Calle 30 #678, La Plata
+45569739 35780/2
+1 Laura
+19960118 López
+Avenida 19 #2345, La Plata
+45569739 48039/4
+3 Pedro
+19991210 Sánchez
+Calle 48 #7890, La Plata
+45569739 31495/6
+4 Sofia
+19850827 Fernández
+Avenida 2 #3456, La Plata
+45569739 49027/8
+5 Martín
+19930814 Romero
+Calle 66 #789, La Plata
+45569739 15840/1
+2 Andrea
+19800406 Díaz
+Avenida 55 #1234, La Plata
+45569739 28913/3
+1 Lucas
+19821017 Alvarez
+Calle 14 #5678, La Plata
+45569739 29817/5
+3 Carolina
+19970529 Torres
+Avenida 33 #910, La Plata
+45569739 31527/7
+5 Facundo
+19910220 Ramírez
+Calle 20 #456, La Plata
+45569739 42789/9
+4 Julieta
+19830911 Acosta
+Avenida 10 #789, La Plata
+45569739 39270/2
+2 Julián
+19941208 Peralta
+Calle 3 #1234, La Plata
+45569739 14397/4
+1 Valentina
+19980707 Giménez
+Avenida 17 #567, La Plata
+45569739 30746/6
+5 Camila
+19870605 Castillo
+Calle 40 #890, La Plata
+45569739 32947/8
+3 Nicolás
+19921124 Ibañez
+Avenida 25 #123, La Plata
+45569739 18305/1
+4 Marina
+19841009 Vázquez
+Calle 60 #4567, La Plata
+45569739 42385/3
+2 Alejandro
+19901002 Duarte
+Avenida 70 #8910, La Plata
+45569739 12973/5
+1 Victoria
+19991225 Mendoza
+Calle 28 #2345, La Plata
