@@ -1,0 +1,4 @@
+1  Juan Pérez solicita 20 dias de vacaciones y solo posee 15 dias restantes.
+9  Sergio Hernández solicita 30 dias de vacaciones y solo posee 11 dias restantes.
+15  Jorge Torres solicita 60 dias de vacaciones y solo posee 12 dias restantes.
+18  Lucía Fernández solicita 50 dias de vacaciones y solo posee 18 dias restantes.
