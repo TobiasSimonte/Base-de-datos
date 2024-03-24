@@ -131,7 +131,6 @@ end;
 
 var
     arch:tArchAlumnos;
-    alu:alumno;
     opc:Integer;
 begin
     Assign(arch,'alumnos.bin');

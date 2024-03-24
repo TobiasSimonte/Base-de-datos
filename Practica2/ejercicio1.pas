@@ -1,5 +1,4 @@
 program ejercicio1;
-uses SysUtils;
 type
     empleado=record
         codEmpleado:Integer;
@@ -28,10 +27,11 @@ var
     lic:licencia;
     i:Integer;
     str:String;
+    c:Char;
 begin
     Assign(empleados,'maestroejer1.bin');
     Rewrite(empleados);
-    Assign(archE,'maestroejre1.txt');
+    Assign(archE,'masterejer1.txt');
     Reset(archE);
     Assign(archL,'detallesejer1.txt');
     Reset(archL);
@@ -44,16 +44,17 @@ begin
         ReadLn(archE,emp.vacaciones);
         Write(empleados,emp);
     end;
+    for i:=1 to 10 do begin
+        c:=Chr(i+47);
+        str:='detalle'+c+'.bin';
+        Assign(licencias[i],str);
+        Rewrite(licencias[i]);
+    end;   
     while(not eof(archL)) do begin
-        ReadLn(archL,lic.codEmpleado);
-        ReadLn(archL,lic.fecha);
-        ReadLn(archL,lic.cantDias);
+        ReadLn(archL,lic.codEmpleado,lic.cantDias,lic.fecha);
         i:=(lic.codEmpleado mod 10);
         if (i = 0) then
-          i:=10;
-        str:=IntToStr(i);
-        str:='detalle'+str+'.bin';
-        Assign(licencias[i],str);
+            i:=10;
         Seek(licencias[i],FileSize(licencias[i]));
         Write(licencias[i],lic);
     end;
@@ -63,10 +64,15 @@ begin
     Close(archE);
     Close(archL);
 end;
+
 var
     empleados:archEmpleados;
     licencias:arrLicencias;
     licDenegadas:Text;
+    i:Integer;
+    emp:empleado;
 begin
     leerInfo(empleados,licencias);
+    
+    
 end.
