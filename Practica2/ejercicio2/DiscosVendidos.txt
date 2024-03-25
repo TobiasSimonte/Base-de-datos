@@ -1,0 +1,45 @@
+1 NombreAutor1
+Genero1
+12 Disco1Autor1
+1 NombreAutor1
+Genero1
+32 Disco2Autor1
+1 NombreAutor1
+Genero1
+44 Disco3Autor1
+1 NombreAutor1
+Genero2
+55 Disco4Autor1
+1 NombreAutor1
+Genero2
+67 Disco5Autor1
+1 NombreAutor1
+Genero3
+777 Disco6Autor1
+2 NombreAutor2
+Genero1
+48 Disco1Autor2
+2 NombreAutor2
+Genero1
+66 Disco2Autor2
+2 NombreAutor2
+Genero2
+100 Disco3Autor2
+2 NombreAutor2
+Genero3
+55 Disco4Autor2
+2 NombreAutor2
+Genero3
+89 Disco5Autor2
+2 NombreAutor2
+Genero3
+90 Disco6Autor2
+2 NombreAutor2
+Genero3
+91 Disco7Autor2
+2 NombreAutor2
+Genero3
+92 Disco8Autor2
+3 NombreAutor3
+Genero1
+101 Disco1Autor3
