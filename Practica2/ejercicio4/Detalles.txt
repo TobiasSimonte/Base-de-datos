@@ -1,0 +1,203 @@
+1
+El Padrino
+Drama
+Francis Ford Coppola
+175
+10/03/1972
+500
+2
+Forrest Gump
+Drama
+Robert Zemeckis
+142
+06/07/1994
+700
+3
+Interestelar
+Ciencia Ficción
+Christopher Nolan
+169
+07/11/2014
+600
+4
+El Señor de los Anillos: La Comunidad del Anillo
+Aventura
+Peter Jackson
+178
+19/12/2001
+550
+5
+El Rey León
+Animación
+Roger Allers
+88
+24/06/1994
+800
+6
+Titanic
+Drama
+James Cameron
+195
+19/12/1997
+900
+7
+Avatar
+Ciencia Ficción
+James Cameron
+162
+18/12/2009
+750
+8
+Matrix
+Ciencia Ficción
+Lana y Lilly Wachowski
+136
+31/03/1999
+600
+9
+La Lista de Schindler
+Drama
+Steven Spielberg
+195
+04/02/1994
+400
+10
+El Club de la Lucha
+Drama
+David Fincher
+139
+15/10/1999
+350
+11
+El Caballero de la Noche
+Acción
+Christopher Nolan
+152
+18/07/2008
+800
+12
+La Vida es Bella
+Drama
+Roberto Benigni
+116
+12/02/1999
+300
+13
+El Silencio de los Inocentes
+Thriller
+Jonathan Demme
+118
+14/02/1991
+400
+14
+La La Land
+Musical
+Damien Chazelle
+128
+25/12/2016
+700
+15
+Toy Story
+Animación
+John Lasseter
+81
+22/11/1995
+850
+16
+Pulp Fiction
+Drama
+Quentin Tarantino
+154
+14/10/1994
+600
+17
+Gladiador
+Drama
+Ridley Scott
+155
+05/05/2000
+550
+18
+El Resplandor
+Terror
+Stanley Kubrick
+146
+23/05/1980
+450
+19
+Interestelar
+Ciencia Ficción
+Christopher Nolan
+169
+07/11/2014
+600
+20
+Forrest Gump
+Drama
+Robert Zemeckis
+142
+06/07/1994
+700
+12
+La Vida es Bella
+Drama
+Roberto Benigni
+116
+12/02/1999
+300
+13
+El Silencio de los Inocentes
+Thriller
+Jonathan Demme
+118
+14/02/1991
+400
+14
+La La Land
+Musical
+Damien Chazelle
+128
+25/12/2016
+700
+15
+Toy Story
+Animación
+John Lasseter
+81
+22/11/1995
+850
+16
+Pulp Fiction
+Drama
+Quentin Tarantino
+154
+14/10/1994
+600
+17
+Gladiador
+Drama
+Ridley Scott
+155
+05/05/2000
+550
+18
+El Resplandor
+Terror
+Stanley Kubrick
+146
+23/05/1980
+450
+19
+Interestelar
+Ciencia Ficción
+Christopher Nolan
+169
+07/11/2014
+600
+20
+Forrest Gump
+Drama
+Robert Zemeckis
+142
+06/07/1994
+700
