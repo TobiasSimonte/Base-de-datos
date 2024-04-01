@@ -1,0 +1,120 @@
+101
+Arroz
+Arroz blanco fino de grano largo
+2.5
+200
+50
+202
+Fideos
+Fideos de trigo candeal
+1.8
+150
+30
+303
+Aceite
+Aceite de girasol
+3.0
+100
+20
+404
+Azúcar
+Azúcar blanca refinada
+2.2
+180
+40
+505
+Café
+Café molido tostado
+4.5
+120
+25
+606
+Harina
+Harina de trigo 0000
+2.0
+220
+60
+707
+Leche
+Leche entera pasteurizada
+2.8
+180
+35
+808
+Huevos
+Docena de huevos frescos
+3.5
+100
+20
+909
+Pan
+Pan lactal blanco
+2.0
+250
+70
+1010
+Yogur
+Yogur natural sin azúcar
+1.2
+150
+30
+1111
+Queso
+Queso fresco tipo untable
+3.0
+120
+25
+1212
+Papas
+Papas blancas lavadas por kg
+1.0
+300
+80
+1313
+Tomates
+Tomates perita por kg
+2.0
+200
+50
+1414
+Manzanas
+Manzanas verdes por kg
+2.5
+180
+40
+1515
+Pollo
+Pechuga de pollo fresca por kg
+6.0
+100
+20
+1616
+Pescado
+Filetes de merluza por kg
+7.5
+80
+15
+1717
+Agua
+Bidón de agua mineral sin gas de 5 litros
+1.5
+150
+30
+1818
+Galletas
+Galletas de vainilla por paquete
+2.2
+200
+45
+1919
+Chocolate
+Tableta de chocolate negro 70% cacao
+3.0
+120
+25
+2020
+Refresco
+Botella de refresco cola de 2 litros
+1.8
+180
+35
