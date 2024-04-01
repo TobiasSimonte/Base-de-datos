@@ -1,0 +1,105 @@
+1
+Tramo 1
+Al norte
+12/12/2012
+45
+2
+Tramo 2
+Medio norte
+12/12/2012
+50
+3
+Tramo 3
+Centro
+12/12/2012
+90
+4
+Tramo 4
+Centro derecha
+12/12/2012
+70
+5
+Tramo 5
+Centro izquierda
+12/12/2012
+115
+6
+Tramo 6
+Medio sur
+12/12/2012
+85
+7
+Tramo 7
+Al Sur
+12/12/2012
+25
+1
+Tramo 1
+Al norte
+12/12/2012
+45
+2
+Tramo 2
+Medio norte
+12/12/2012
+50
+3
+Tramo 3
+Centro
+12/12/2012
+90
+4
+Tramo 4
+Centro derecha
+12/12/2012
+70
+5
+Tramo 5
+Centro izquierda
+12/12/2012
+115
+6
+Tramo 6
+Medio sur
+12/12/2012
+85
+7
+Tramo 7
+Al Sur
+12/12/2012
+25
+1
+Tramo 1
+Al norte
+12/12/2012
+45
+2
+Tramo 2
+Medio norte
+12/12/2012
+50
+3
+Tramo 3
+Centro
+12/12/2012
+90
+4
+Tramo 4
+Centro derecha
+12/12/2012
+70
+5
+Tramo 5
+Centro izquierda
+12/12/2012
+115
+6
+Tramo 6
+Medio sur
+12/12/2012
+85
+7
+Tramo 7
+Al Sur
+12/12/2012
+25

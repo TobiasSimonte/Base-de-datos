@@ -1,0 +1,7 @@
+En la zona Tramo 1 se construyeron 135m^2.
+En la zona Tramo 2 se construyeron 150m^2.
+En la zona Tramo 3 se construyeron 270m^2.
+En la zona Tramo 4 se construyeron 210m^2.
+En la zona Tramo 5 se construyeron 345m^2.
+En la zona Tramo 6 se construyeron 255m^2.
+En la zona Tramo 7 se construyeron 75m^2.
