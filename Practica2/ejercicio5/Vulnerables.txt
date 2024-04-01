@@ -1,0 +1,105 @@
+Avellaneda
+Avellaneda
+Dock Sud
+15
+5
+Avellaneda
+Avellaneda
+Piñeyro
+20
+8
+Lanús
+Lanús
+Centro
+25
+10
+Lanús
+Lanús
+Remedios de Escalada
+18
+6
+Lomas de Zamora
+Banfield
+Barrio Norte
+10
+4
+Lomas de Zamora
+Banfield
+Barrio Sur
+12
+3
+Lomas de Zamora
+Lomas de Zamora
+Centro
+30
+12
+Lomas de Zamora
+Lomas de Zamora
+Temperley
+22
+8
+Quilmes
+Quilmes
+Centro
+35
+15
+Quilmes
+Quilmes
+La Florida
+28
+10
+Quilmes
+Quilmes
+Quilmes Oeste
+20
+6
+San Isidro
+Beccar
+Centro
+18
+6
+San Isidro
+San Isidro
+Martínez
+24
+8
+San Isidro
+San Isidro
+San Isidro
+27
+10
+San Isidro
+Vicente López
+Florida
+30
+12
+San Isidro
+Vicente López
+La Lucila
+22
+8
+Tigre
+Tigre
+Centro
+25
+10
+Tigre
+Tigre
+El Talar
+20
+6
+Tigre
+Tigre
+Nordelta
+18
+5
+Vicente López
+Olivos
+Centro
+30
+12
+Vicente López
+Olivos
+Olivos Norte
+25
+10
