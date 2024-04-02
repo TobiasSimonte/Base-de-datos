@@ -1,0 +1,120 @@
+101
+Televisor LED Samsung 50"
+Televisor LED de alta definición con Smart TV integrado
+800
+100
+150
+202
+Lavadora LG Inverter 10 kg
+Lavadora de carga frontal con tecnología Inverter
+600
+80
+120
+303
+Refrigerador Samsung Side-by-Side 600L
+Refrigerador con dispensador de agua y sistema de enfriamiento Twin Cooling Plus
+1200
+50
+80
+404
+Horno Microondas Panasonic 1.2 cu ft
+Horno microondas con tecnología Inverter y grill
+200
+150
+200
+505
+Licuadora Osterizer 12 velocidades
+Licuadora con jarra de vidrio y cuchillas de acero inoxidable
+50
+200
+250
+606
+Aspiradora Dyson V8 Absolute
+Aspiradora inalámbrica con tecnología ciclónica
+400
+60
+100
+707
+Cafetera Nespresso VertuoPlus
+Cafetera automática con sistema de cápsulas Vertuo
+150
+120
+180
+808
+Batidora KitchenAid Artisan 5 qt
+Batidora de pie con 10 velocidades y cabezal inclinable
+300
+70
+110
+909
+Plancha de Vapor Rowenta Focus
+Plancha de vapor con suela de acero inoxidable
+80
+180
+220
+1010
+Aire Acondicionado LG Inverter 12000 BTU
+Aire acondicionado split con tecnología Dual Inverter Compressor
+700
+40
+70
+1111
+Secadora Whirlpool 7 kg
+Secadora de ropa con sensor de humedad y función de vapor
+500
+30
+50
+1212
+Cafetera de Goteo Black+Decker 12 tazas
+Cafetera programable con jarra térmica de acero inoxidable
+40
+250
+300
+1313
+Plancha de Pelo GHD Platinum+
+Plancha de pelo profesional con tecnología ultra-zone
+200
+90
+130
+1414
+Robot de Cocina Moulinex Companion XL
+Robot de cocina multifunción con 12 programas automáticos
+800
+20
+40
+1515
+Calentador de Agua Rheem Eléctrico 40 gal
+Calentador de agua eléctrico de 40 galones con tanque
+600
+15
+30
+1616
+Freidora Tefal Actifry Genius XL
+Freidora de aire caliente con capacidad para 1.7 kg de alimentos
+250
+100
+150
+1717
+Batidora de Mano Braun Multiquick 9
+Batidora de mano con accesorios de acero inoxidable
+120
+150
+200
+1818
+Horno Tostador Oster 6 rebanadas
+Horno tostador con funciones de horneado, tostado y gratinado
+80
+180
+250
+1919
+Aspiradora Robot Roomba 675
+Aspiradora robot con navegación inteligente y control por app
+300
+50
+80
+2020
+Cámara de Seguridad Ring Floodlight Cam
+Cámara de seguridad con focos LED y sensor de movimiento
+250
+70
+120
