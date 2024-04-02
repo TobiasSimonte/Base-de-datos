@@ -1,0 +1,60 @@
+871
+Roble Común
+Quercus robur
+20
+El roble común es un árbol caducifolio de gran tamaño con hojas lobuladas y flores en amentos.
+Europa Occidental y Central
+562
+Acebo
+Ilex aquifolium
+5
+El acebo es un arbusto perenne con hojas espinosas y frutos rojos brillantes.
+Europa Occidental y Meridional
+394
+Abedul
+Betula pendula
+15
+El abedul es un árbol de hoja caduca con corteza blanca y hojas triangulares.
+Europa del Norte y Central
+238
+Tejo
+Taxus baccata
+10
+El tejo es un árbol de crecimiento lento con hojas verde oscuro y frutos rojos en forma de cono.
+Europa Occidental
+665
+Lirio de los Valles
+Convallaria majalis
+20
+El lirio de los valles es una planta herbácea con tallos florales blancos y fragantes.
+Europa, Asia y Norteamérica
+129
+Brezo
+Calluna vulgaris
+50
+El brezo es un arbusto perenne con pequeñas hojas escamosas y flores en forma de campana.
+Europa Occidental
+879
+Tomillo
+Thymus vulgaris
+30
+El tomillo es una planta aromática con hojas pequeñas y flores lilas o blancas.
+Europa, Asia y África del Norte
+331
+Lavanda
+Lavandula angustifolia
+60
+La lavanda es una planta aromática con tallos leñosos, hojas estrechas y flores violetas.
+Europa Mediterránea
+493
+Fresno
+Fraxinus excelsior
+30
+El fresno es un árbol caducifolio con hojas compuestas y frutos en forma de sámara.
+Europa Occidental y Central
+672
+Tilo
+Tilia europaea
+25
+El tilo es un árbol de hoja caduca con flores amarillas y fragantes.
+Europa
