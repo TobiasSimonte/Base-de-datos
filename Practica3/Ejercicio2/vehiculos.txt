@@ -1,0 +1,60 @@
+101
+ABC123
+Gasolina
+4
+50.0
+Sedán compacto, ideal para viajes en ciudad.
+202
+DEF456
+Diésel
+5
+70.0
+Monovolumen familiar con amplio espacio interior.
+303
+GHI789
+Híbrido
+4
+60.0
+Sedán deportivo con tecnología híbrida para mayor eficiencia.
+404
+JKL012
+Gasolina
+2
+80.0
+Convertible deportivo para disfrutar del sol y la velocidad.
+505
+MNO345
+Eléctrico
+4
+90.0
+SUV eléctrico con bajo consumo y cero emisiones.
+606
+PQR678
+Diésel
+5
+75.0
+Furgoneta de carga con gran capacidad de almacenamiento.
+707
+STU901
+Gasolina
+4
+55.0
+Hatchback urbano, ideal para desplazamientos cortos.
+808
+VWX234
+Híbrido
+5
+65.0
+SUV familiar con sistema híbrido para mayor economía de combustible.
+909
+YZA567
+Gasolina
+4
+60.0
+Berlina ejecutiva con alto nivel de confort y seguridad.
+1010
+BCD890
+Eléctrico
+4
+100.0
+Berlina de lujo totalmente eléctrica, con tecnología de vanguardia.
