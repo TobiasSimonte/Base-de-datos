@@ -1,0 +1,8 @@
+1
+remera
+remera roja
+50
+2
+pantalon
+pantalon azul
+100
