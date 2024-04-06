@@ -1,0 +1,70 @@
+101
+Thriller
+Pop
+Michael Jackson
+Uno de los álbumes más exitosos de todos los tiempos, con éxitos como "Billie Jean" y "Beat It".
+1982
+50
+202
+The Dark Side of the Moon
+Rock progresivo
+Pink Floyd
+Un clásico del rock con temas icónicos como "Money" y "Time".
+1973
+40
+303
+Abbey Road
+Rock
+The Beatles
+El último álbum de estudio grabado por The Beatles, con canciones como "Come Together" y "Here Comes the Sun".
+1969
+30
+404
+Back in Black
+Hard Rock
+AC/DC
+Uno de los álbumes más vendidos de la historia, con éxitos como "You Shook Me All Night Long" y "Back in Black".
+1980
+45
+505
+Rumours
+Pop Rock
+Fleetwood Mac
+Un álbum legendario con canciones como "Go Your Own Way" y "Dreams".
+1977
+35
+606
+Led Zeppelin IV
+Hard Rock
+Led Zeppelin
+Conocido como "Untitled" o "Four Symbols", incluye éxitos como "Stairway to Heaven" y "Black Dog".
+1971
+25
+707
+Nevermind
+Grunge
+Nirvana
+El álbum que catapultó a Nirvana a la fama mundial, con canciones como "Smells Like Teen Spirit" y "Come as You Are".
+1991
+20
+808
+Born to Run
+Rock
+Bruce Springsteen
+Considerado uno de los mejores álbumes de todos los tiempos, con himnos como "Born to Run" y "Thunder Road".
+1975
+30
+909
+Hotel California
+Rock
+Eagles
+Un álbum icónico con la famosa canción "Hotel California" y otros éxitos como "New Kid in Town".
+1976
+40
+1010
+The Wall
+Rock
+Pink Floyd
+Una obra maestra conceptual con canciones memorables como "Another Brick in the Wall" y "Comfortably Numb".
+1979
+50
