@@ -1,0 +1,60 @@
+101
+Camiseta básica
+Blanca
+M
+50
+15.99
+202
+Jeans ajustados
+Azul
+32
+30
+29.99
+303
+Zapatillas deportivas
+Negro
+42
+20
+49.99
+404
+Chaqueta de cuero
+Marrón
+L
+10
+99.99
+505
+Vestido de fiesta
+Negro
+S
+5
+79.99
+606
+Sweater de lana
+Gris
+XL
+25
+39.99
+707
+Pantalones cargo
+Verde oliva
+34
+40
+34.99
+808
+Bufanda de punto
+Rojo
+Único
+60
+19.99
+909
+Abrigo de invierno
+Negro
+XL
+15
+89.99
+1010
+Sombrero de ala ancha
+Beige
+Único
+20
+24.99
